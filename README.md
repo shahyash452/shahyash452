@@ -1,5 +1,13 @@
-<h1 align="center">Hey 👋, I'm Yash Shah</h1>
-<h3 align="center">Computer Science Engineer</h3>
+<h1 align="left">Hey 👋, I'm Yash Shah</h1>
+
+<ul> 
+  <li>
+    <p align="left">Computer Science Engineer</p>
+    <p align="left">Data Science Enthusiast</p>
+  </li>
+</ul>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahyash452&label=Profile%20views&color=0e75b6&style=flat" alt="shahyash452" /> </p>
 
