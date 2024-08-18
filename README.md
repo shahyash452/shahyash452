@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://yashshah.me/](https://yashshah.me/)
+- 👨‍💻 All of my projects are available at [https://yashshah.vercel.app/](https://yashshah.vercel.app/)
 
 - 💬 Ask me about **Data Analysis**
 
